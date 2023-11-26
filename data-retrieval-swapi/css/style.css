@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+    width: 60vw;
+    justify-content: center;
+    margin-inline: auto;
+}
+
+div.planetdiv {
+    background-color: antiquewhite;
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    align-self: center;
+
+}
+
+div.elements {
+    margin: 20px;
+}
